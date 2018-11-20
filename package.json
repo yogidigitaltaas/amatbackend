@@ -1,14 +1,14 @@
 {
-  "name": "node-es6-rest-template",
-  "description": "A template to kick-start Node.js projects using ES6 and RESTful API best practices",
+  "name": "amat-backend",
+  "description": "amat backend using nodejs, mongodb atlas",
   "version": "0.1.0",
   "main": "dist/index.js",
-  "author": "Naresh Bhatia",
+  "author": "Yogendra Rawat",
   "license": "MIT",
-  "homepage": "https://github.com/archfirst/node-es6-rest-template",
+  "homepage": "https://github.com/yogidigitaltaas/amatbackend",
   "repository": {
     "type": "git",
-    "url": "https://github.com/archfirst/node-es6-rest-template.git"
+    "url": "https://github.com/yogidigitaltaas/amatbackend.git"
   },
   "devDependencies": {
     "axios": "^0.16.2",
